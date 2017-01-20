@@ -1,5 +1,5 @@
-#github.com/marcotulio95/Curriculo
-[github.com/marcotulio95/Curriculo](https://github.com/marcotulio95/Curriculo)
+# marcotulio95.github.io/Curriculo
+[marcotulio95.github.io/Curriculo/](https://marcotulio95.github.io/Curriculo/)
 
 Acesse o link acima para ver meu currículo.
 
