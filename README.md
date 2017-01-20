@@ -1,5 +1,5 @@
-##ijrodrigues.github.io/curriculo
-[ijrodrigues.github.io/curriculo](https://ijrodrigues.github.io/curriculo/)
+#github.com/marcotulio95/Curriculo
+[github.com/marcotulio95/Curriculo](https://github.com/marcotulio95/Curriculo)
 
 Acesse o link acima para ver meu currículo.
 
