@@ -1,5 +1,6 @@
 <p align="center"><img width="50%" src="img/curriculo.png" /></p>
---------------------------------------------------------------------------------
+
+  --------------------------------------------------------------------------------
 
 # Veja acessando: [marcotulio95.github.io/Curriculo](https://marcotulio95.github.io/Curriculo/)
 
